@@ -118,10 +118,10 @@ npm run dev
 
 ## 팀
 
-| GitHub | 참여 |
-|---|---|
-| [@coffee2think](https://github.com/coffee2think) | 기획, Backend, Frontend |
-| [@SteelCrab](https://github.com/SteelCrab) | Infra |
+| 이름 | GitHub | 참여 |
+|---|---|---|
+| 최승준 | [@coffee2think](https://github.com/coffee2think) | 기획, Backend, Frontend |
+| 박용현 | [@SteelCrab](https://github.com/SteelCrab) | Infra |
 
 ## License
 
